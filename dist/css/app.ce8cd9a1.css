@@ -1,0 +1,1 @@
+body{margin:0;padding:0}.app_tab{position:fixed;background-color:rgba(0,0,0,.5);z-index:999;display:flex;left:50px;top:50px}.app_tab a{color:#fff;text-decoration:none;padding:20px}.app_tab .router-link-active{background-color:rgba(239,116,48,.5)}
